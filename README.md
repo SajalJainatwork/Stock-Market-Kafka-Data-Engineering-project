@@ -21,7 +21,7 @@ I used different technologies such as Python, Amazon Web Services (AWS), Apache 
 
 
 ## Dataset Used
-we are mainly interested in operation side of Data Engineering (building data pipeline) 
+I was mainly interested in operation side of Data Engineering (building data pipeline) 
 
 
 
