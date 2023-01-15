@@ -6,7 +6,8 @@ In this project, you will execute an End-To-End Data Engineering Project on Real
 We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="![Stock Market Real-Time Kafka Streaming Project](https://user-images.githubusercontent.com/106689439/212524917-2c3a6620-f6df-4a5e-a98e-13ebc857fa9a.jpg)
+.jpg">
 
 ## Technology Used
 - Programming Language - Python
