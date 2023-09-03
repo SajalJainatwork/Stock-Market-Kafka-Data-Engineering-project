@@ -5,31 +5,37 @@ Stock Market Real-Time Data Analysis using Kafka, AWS and Python.
 In this project, I have executed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 I used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
-✳Build a Real-Time app using Python
+✅Build a Real-Time app using Python
 
-✳Understand the basics of Kafka
+✅Understand the basics of Kafka
 
-✳Install Kafka on EC2
+✅Install Kafka on EC2
 
-✳Generate a real-time pipeline and
+✅Generate a real-time pipeline and
 
-✳Analyze Data in Real-Time
+✅Analyze Data in Real-Time
 
 ## Architecture 
 ![Stock Market Real-Time Kafka Streaming Project](https://user-images.githubusercontent.com/106689439/212524917-2c3a6620-f6df-4a5e-a98e-13ebc857fa9a.jpg)
 
 
 ## Technology Used
-✳Programming Language - Python
 
-✳Amazon Web Service (AWS)
-✴S3 (Simple Storage Service)
-✴Athena
-✴Glue Crawler
-✴Glue Catalog
-✴EC2
+✅Programming Language - Python
 
-✳Apache Kafka
+✅Amazon Web Service (AWS)
+
+✅S3 (Simple Storage Service)
+
+✅Athena
+
+✅Glue Crawler
+
+✅Glue Catalog
+
+✅EC2
+
+✅Apache Kafka
 
 
 ## Dataset Used
